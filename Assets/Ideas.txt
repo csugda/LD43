@@ -1,0 +1,12 @@
+﻿It could be cool to include a level editor if there is time. Give playera a blank grid and selection of tiles and see what kind of puzzle they can come up with. 
+
+track high scores on the single computer so that over multiple tries theey can see if they get better. 
+
+
+Tile ideas
+* multiplier
+* congruent tiles
+* on the edge
+* destroys a large cunk if destroyed
+* every diferent type adjecent
+* -1 for every same type adjecent
